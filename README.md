@@ -39,7 +39,3 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Contact
-
-For any questions, feel free to open an issue or contact the maintainers.
-
